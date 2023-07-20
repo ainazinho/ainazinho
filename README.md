@@ -2,16 +2,15 @@
 
 ## QA Engineer / Тестировщик ПО
  
-## Мое резюме
-[Ссылка на мое резюме](https://drive.google.com/file/d/1DJw53lunaj2tdVJoEYqBTKd61UsU3ZJS/view?usp=drivesdk)
-
-
 ### Инструменты
 
-![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
-![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
-![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
-![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
+![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman)
+![Header](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=git)
+![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github)
+![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql)
+![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome)
+![Header](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=docker)
+![Header](https://img.shields.io/badge/Linux-090909?style=for-the-badge&logo=linux)
 
 ### Тестовая документация
 
