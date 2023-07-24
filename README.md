@@ -19,6 +19,11 @@
 - [SQL запросы](https://github.com/ainazinho/SQL)
 - [Коллекции в Postman](https://github.com/ainazinho/RestAPI.git)
 
+### Пройденные курсы
+
+- АНО ВО "Университет Иннополис". Тестировщик ПО.Расширенный курс. (08.2022-12.2022)
+
+
 ### Контакты
 
 - Telegram: @ainazinho
