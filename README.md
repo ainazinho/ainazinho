@@ -15,7 +15,7 @@
 ### Тестовая документация
 
 - [Тест-кейсы и Чек-листы](https://github.com/ainazinho/Test_cases_and_Checklists.git)
-- [Баг-репорты](https://github.com/ainazinho/RestAPI.git)
+- [Баг-репорты](https://github.com/ainazinho/Bug-reports.git)
 - [SQL запросы](https://github.com/ainazinho/SQL)
 - [Коллекции в Postman](https://github.com/ainazinho/RestAPI.git)
 
