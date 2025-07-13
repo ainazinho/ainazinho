@@ -25,8 +25,17 @@
 
 ### Пройденные курсы
 
-- АНО ВО "Университет Иннополис". Тестировщик ПО.Расширенный курс. (2022)
+- **Тестировщик ПО. Расширенный курс.**  
+АНО ВО "Университет Иннополис" (2022)
 [Ссылка на диплом](https://github.com/ainazinho/Completed_courses/blob/main/Diploma_QA_Innopolis_University.pdf)
+
+- **Тестирование ПО: Postman для тестирования API.**  
+Stepik (2025)
+[Ссылка на сертификат](https://github.com/ainazinho/Completed_courses/blob/main/Certificate_for_Postman.pdf)
+
+- **Интерактивный тренажер по SQL**  
+Stepik (2025)
+[Ссылка на сертификат](https://github.com/ainazinho/Completed_courses/blob/main/Certificate_for_SQL_course.pdf)
 
 
 ### Контакты
