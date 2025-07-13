@@ -25,13 +25,13 @@
 
 ### Пройденные курсы
 
-- АНО ВО "Университет Иннополис". Тестировщик ПО.Расширенный курс. (08.2022-12.2022)
+- АНО ВО "Университет Иннополис". Тестировщик ПО.Расширенный курс. (2022)
 [Ссылка на диплом](https://github.com/ainazinho/Completed_courses/blob/main/Diploma_QA_Innopolis_University.pdf)
 
 
 ### Контакты
 
 - Telegram: @ainazinho
-- E-mail: aksainaz@mail.ru
+- E-mail: ainazinho@yandex.ru
 
 
